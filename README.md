@@ -7,4 +7,9 @@ El número que nos devuelve está función es el número entero positivo más gr
 - 32bits = int(9223372036854775807)
 - 64bits = int(9223372036854775807)
 
-2. 
+4. Como podemos ver en el código realizado. La propiedad **será añadida** en la instancia de la clase, en el caso de que le intentemos asignar una propiedad inexistente a la instancia de la clase. Pero la propiedad **no será añadiad** ni en la la clase de la cual instanciamos, en instancias anteriores o posteriores de la clase, ***únicamente*** se añadira en la instancia de la cual accedemos a una propiedad no definida.  
+Por si acaso, recordaré que la propiedad al no ser añadida a la clase tampoco se creará en ninguna instancia posterior que se realize sobre dicha clase.
+
+5. 
+
+6. Respuesta en el directorio 6, como el número de la pregunta. Incluye un archivo que corresponde a un fomrulario de dos campos donde subiremos dos archivo y nos informará de los archivos subidos y sus características. 
